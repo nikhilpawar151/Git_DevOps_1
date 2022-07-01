@@ -10,4 +10,7 @@ Demo change in welcome_ext1 branch
 
 ..
 
-Changes new in
+Changes new in file 1
+
+..
+

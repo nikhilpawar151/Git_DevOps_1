@@ -3,3 +3,5 @@ Change working
 This is welcome two file in welcome branch....
 
 This is small change in wel2.txt file
+
+Removed some changes from file 2
